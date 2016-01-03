@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anasmammeri/blogBackEnd.git"
+    "url": "git://github.com/CaptainYouz/blogBackEnd.git"
   },
-  "author": "anasmammeri",
+  "author": "captainyouz",
   "license": ""
 }
